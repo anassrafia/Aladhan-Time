@@ -1,4 +1,4 @@
-#Aladhan
+# Aladhan 🕌
 Aladhan is a user-friendly and informative platform that provides users with accurate Adhan prayer times. It seamlessly combines the power of modern web development technologies, React and Bootstrap, with real-time data from an API, making it a valuable resource for Muslims looking to perform their daily prayers at the appropriate times.
 
 # Getting Started with Create React App
