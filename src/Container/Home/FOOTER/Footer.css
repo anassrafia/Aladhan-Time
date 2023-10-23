@@ -1,0 +1,13 @@
+.settings{
+    width: 100%;
+    height: 15rem;
+    background-color: #2f4c94b8;
+    backdrop-filter: blur(3px);
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
+
+.visible{
+    display: block;
+}
